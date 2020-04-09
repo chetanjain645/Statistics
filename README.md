@@ -41,8 +41,8 @@ Follow the steps given below,
 1. Fork, https://github.com/chetanjain645/Statistics
 2. Execute, git clone https://github.com/chetanjain645/Statistics
 3. Change your working directory to ../statistics
-4. Execute, git remote add origin_user https://github.com/<your github username>/Statistics
-5. Execute, git checkout -b <your-new-branch-for-working>.
+4. Execute, git remote add origin_user https://github.com/'<your github username>'/Statistics
+5. Execute, git checkout -b '<your-new-branch-for-working>'.
 6. Make changes to the code.
 7. Add your name and email to the AUTHORS, if you wish to.
 8. Execute, git add ..
