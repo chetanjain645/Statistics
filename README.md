@@ -18,6 +18,8 @@ As we know Python is an interpreted language and hence is slow as compared to C+
   - More distribution are in development mode.    
   - The package is made in python.
     - Used Math for calculation and matplotlib for plotting distribution graph.     
+  - Ready to deployment on [PyPI.org](https://pypi.org/).
+    - Read [this](https://dev.to/chetanjain645/how-to-deploy-your-python-package-library-in-production-1nk1) article to know how to deploy the python package.
 
 Package or library is a collection of logical related classes, functions and methods that allows you to perform many actions without writing your code.
 We can reuse code whenever we want from the library. We don't have to write it again. A library can be installed from the python package manager like pip (preferred installer program) or conda.
